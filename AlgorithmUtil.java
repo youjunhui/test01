@@ -1,7 +1,7 @@
 /*
  * 文 件 名  :  AlgorithmUtil.java
  * 描    述    :  <描述>
- * 创建人    :  
+ * 创建人    :  youjunhui
  * 创建时间:  上午8:19:42
  */
 package com.umrtec.web.utils.tools;
